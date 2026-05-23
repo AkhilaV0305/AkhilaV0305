@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhila
 
-**Senior BI Developer** | Power BI • Tableau • SQL • ETL | 10+ Years Experience
+**Senior BI Developer** | Power BI • Tableau • SQL • ETL | Data Nerd
 
 Building enterprise-scale dashboards and data solutions that enable organizations to make data-driven decisions.
 
