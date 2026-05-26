@@ -95,12 +95,6 @@ Building enterprise-scale dashboards and data solutions that enable organization
 
 ---
 
-## 🔗 Connect
-
-- **LinkedIn:** [linkedin.com/in/akhila-vitta](https://www.linkedin.com/in/akhila-vitta2244/)
-
----
-
 ## 📖 Philosophy
 
 *Data-driven decisions beat guesswork.*
